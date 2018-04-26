@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fakultas UPNVJ</string>
+    <string name="fasilitas_ekonomi">Aula, 12 Kelas, 2 Lab, 1 Selasar.</string>
+    <string name="content_lokasi_ekonomi">Terletak di Kampus Pondok Labu.</string>
+    <string name="content_akseskendaraan_ekonomi">Lokasi curug bidadari Sentul Bogor bisa anda capai cukup mudah. Silahkan keluar dari pintu tol sentul selatan,lalu belok kiri. terus ikuti sampai menemukan simpangan jalan yang serong ke kiri. Anda akan melewati perumahan di sekitar sentul dan akhirnya melewati jalan desa. Perjalanan dari pintu tol sentul selatan kurang lebih 50 menit.</string>
+
+    <string name="fasilitas_fikes">Aula, 12 Kelas, 2 Lab, 1 Selasar.</string>
+    <string name="content_lokasi_fikes">Terletak di Kampus Limo. </string>
+    <string name="content_akseskendaraan_fikes">Cara ke lokasi cyrug cilember bisa ditempuh dengan beberapa alternativ jalan. kita bisa menggunakan akses jalan Sentul City atau Cituereup Bogor.</string>
+
+    <string name="fasilitas_fisip">Aula, 12 Kelas, 2 Lab, 1 Selasar. </string>
+    <string name="content_lokasi_fisip">Terletak di Kampus Pondok Labu.</string>
+    <string name="content_akseskendaraan_fisip">Cara ke lokasi Curug nangka Berjarak kurang lebihnya sekitar 25 km dari Kota Bogor lewat Ciapus yang bisa ditempuh dengan waktu sekitar 30 sampai 45 menit menggunakan kendaraan sampai pintu gerbang dan kemudian dilanjutkan dengan berjalan kaki sepanjang kurang lebih sekitar1,5 km. Kondisi jalan untuk menuju curug ini seperti pada umumnya tergolong baik atau sudah beraspal dan dapat dilewati oleh kendaraan roda empat.</string>
+
+    <string name="fasilitas_hukum">Aula, 12 Kelas, 2 Lab, 1 Selasar. </string>
+    <string name="content_lokasi_hukum">Terletak di Kampus Pondok Labu. </string>
+    <string name="content_akseskendaraan_hukum">Cara ke lokasi Curug Leuwi Hejo Bogor bisa ditempuh dengan beberapa alternativ jalan. kita bisa menggunakan akses jalan Sentul City atau Cituereup Bogor.</string>
+
+    <string name="fasilitas_teknik">Aula, 12 Kelas, 2 Lab, 1 Selasar.</string>
+    <string name="content_lokasi_teknik">Terletak di Kampus Limo.</string>
+    <string name="content_akseskendaraan_teknik">Lokasi curug cikoneng bisa anda capai cukup mudah. Silahkan keluar dari pintu tol sentul selatan,lalu belok kiri. terus ikuti sampai menemukan simpangan jalan yang serong ke kiri. Anda akan melewati perumahan di sekitar sentul dan akhirnya melewati jalan desa. Perjalanan dari pintu tol sentul selatan kurang lebih 50 menit.</string>
+
+    <string name="Lokasi">Lokasi</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="akses_kendaraan">Akses Kendaraan</string>
+
+</resources>
